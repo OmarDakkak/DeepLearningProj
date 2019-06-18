@@ -1,4 +1,5 @@
 <p align="center"><img src="/Logos/deeplearningLogo.png" width="100px" height="100px"></p>
+
 ## About DeepFish Classification 
 
 This is a project for the fish classification, using deep learning technologies, more specifically using the famous Keras library on Python 3.

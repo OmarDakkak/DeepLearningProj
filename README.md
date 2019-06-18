@@ -3,7 +3,7 @@
 ## About DeepFish Classification 
 
 This is a project for the fish classification, using deep learning technologies, more specifically using the famous Keras library on Python 3.
-## DeepFish Classification  contributeurs
+## DeepFish Classification  contributors
 
 - Omar DAKKAK
 - Abdelfettah Hajjioui

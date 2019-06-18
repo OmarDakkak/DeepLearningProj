@@ -10,4 +10,4 @@ This is a project for the fish classification, using deep learning technologies,
 
 ## License
 
-DMI is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+DeepFish Classification is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).

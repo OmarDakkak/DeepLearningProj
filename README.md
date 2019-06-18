@@ -1,4 +1,4 @@
-<p align="center"><img src="/Logos/deeplearningLogo.png" width="100px" height="100px"></p>
+<p align="center"><img src="/Logos/logo.png" width="100px" height="100px"></p>
 
 ## About DeepFish Classification 
 
